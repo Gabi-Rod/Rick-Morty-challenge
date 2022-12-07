@@ -1,0 +1,9 @@
+.app {
+  text-align: center;
+  font-size: 12px;
+  background-color: rgb(241, 241, 241);
+  height: 100vh;
+}
+h1 {
+  margin: 0;
+}

@@ -1,0 +1,15 @@
+.collapsable-body {
+  background-color: rgb(241, 241, 241);
+  display: flex;
+  border-bottom: 0px solid;
+}
+.detailed-image {
+  width: 200px;
+  height: 200px;
+  margin-right: 10px;
+}
+.detailed-info {
+  display: flex;
+  flex-direction: column;
+  margin-right: 10px;
+}
